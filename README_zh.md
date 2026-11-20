@@ -152,7 +152,7 @@ bash experiments/latency/run_latency.sh --speculative
 @article{lin2026wamotor,
   title   = {Faster-WAM: Efficient Inference-Time Future Conditioning for Robust World Action Models},
   author  = {Zexun, Lin and Yuan Feng and Xike Xie},
-  journal = {arXiv preprint arXiv:xxxx.xxxxx},
+  journal = {arXiv preprint arXiv:2611.25413},
   year    = {2026}
 }
 ```
